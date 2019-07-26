@@ -10,7 +10,7 @@ In addition a Bar Class was created to visualise touch and release interactions.
 ## P5.js
 This code is converted from the Processing version into javascript. In order to use the Bare Conductive board with P5.js you must include the **p5-serial library** found [**here**](https://github.com/p5-serial/p5.serialport)
 
-- Follow the guidelines detailed to enable interaction between Serial and p5.js
+- Follow the guidelines detailed in the link above to enable interaction between Serial and p5.js
 - You can use the serial App or node.js to do this. 
 - You'll likely have to change the name of the serial port in the examples to the one your Arduino is using.
 

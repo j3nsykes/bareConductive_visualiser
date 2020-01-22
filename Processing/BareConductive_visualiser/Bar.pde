@@ -49,6 +49,7 @@ void displayAllBars() {
   for (Bar b : bars) {
     b.display();
   }
+
 }
 
 void displayTouch() {

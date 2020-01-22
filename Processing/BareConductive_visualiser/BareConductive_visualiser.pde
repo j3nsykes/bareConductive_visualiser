@@ -26,7 +26,7 @@ void setup() {
 void draw() {
   background(80);
   //visualise the data
-
+Bar.display(1);
   displayAllBars();
   displayTouch();
 }
